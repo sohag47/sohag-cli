@@ -1,6 +1,6 @@
 {
   "name": "sohag-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to show IP, MAC, and port status",
   "bin": {
     "sohag": "./index.js"
