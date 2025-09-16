@@ -13,8 +13,10 @@ A simple CLI tool to display your local and public IP addresses, MAC addresses, 
 
 You need [Node.js](https://nodejs.org/) installed.
 
+> **Note:** This package is intended to be installed globally.
+
 ```sh
-npm install -g .
+npm install -g sohag-cli
 ```
 
 Or, if you want to use locally, run commands with `npx`:
