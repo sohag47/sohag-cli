@@ -1,0 +1,5 @@
+[
+  { "name": "App1", "port": "3000", "url": "http://localhost:3000" },
+  { "name": "App2", "port": "8080", "url": "http://localhost:8080" },
+  { "name": "App3", "port": "5000", "url": "http://localhost:5000" }
+]
