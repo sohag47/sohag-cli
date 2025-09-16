@@ -1,5 +1,5 @@
 {
-  "name": "sohag-cli",
+  "name": "@sohag47/sohag-cli",
   "version": "1.0.1",
   "description": "A CLI tool to show IP, MAC, and port status",
   "bin": {
